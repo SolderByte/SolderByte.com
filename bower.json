@@ -1,0 +1,15 @@
+{
+  "name": "solderbyte.com",
+  "description": "solderbyte.com website",
+  "main": "index.js",
+  "authors": [
+    "Jared De La Cruz"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SolderByte/SolderByte.com",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.3",
+    "jquery": "v3.1.0"
+  }
+}

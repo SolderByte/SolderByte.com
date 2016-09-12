@@ -1,0 +1,18 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Bower
+bower_components
+
+# Vendors
+site/static/vendors/
+
+# Optional npm cache directory
+.npm
+
+# MacOS
+*.DS_Store
