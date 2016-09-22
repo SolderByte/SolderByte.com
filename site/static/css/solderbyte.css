@@ -7,6 +7,10 @@ body {
   height: 32px;
 }
 
+.navbar-link {
+  font-weight: 200;
+}
+
 /* Splash */
 .cover {
   background-image: url('../img/bg.jpg');
@@ -155,4 +159,14 @@ body {
 .footer-link .nav-link {
   padding-top: 0px;
   padding-bottom: 0px;
+}
+
+.error-title {
+  font-size: 128px;
+  color: #fff;
+}
+
+.error-text {
+  color: #fff;
+  font-weight: 300;
 }
