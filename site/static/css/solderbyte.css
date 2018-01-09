@@ -170,3 +170,15 @@ body {
   color: #fff;
   font-weight: 300;
 }
+
+/* Privacy */
+.privacy-text {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.privacy-bold {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
